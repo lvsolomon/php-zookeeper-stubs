@@ -1,0 +1,10 @@
+{
+  "name": "mmzp/php-zookeeper-stubs",
+  "description": "php-zookeeper extension stubs for IDE",
+  "authors": [
+    {
+      "name": "lzf",
+      "email": "lzf@meitu.com"
+    }
+  ]
+}
